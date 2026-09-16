@@ -1,0 +1,6 @@
+description: Instinct money assistant. paymentrequired.com/mcp only.
+description_auto: false
+ui_meta:
+  hermes-bots:
+    title: Instinct
+    avatar: "💳"

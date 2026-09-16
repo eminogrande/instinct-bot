@@ -1,0 +1,18 @@
+model:
+  provider: nous
+  default: google/gemini-3.8-flash
+
+agent:
+  reasoning_effort: low
+  reasoning_overrides:
+    google/gemini-3.8-flash: low
+
+mcp_servers:
+  paymentrequired:
+    enabled: true
+    url: https://paymentrequired.com/mcp
+
+toolsets: []
+platform_toolsets:
+  cli: []
+  telegram: []

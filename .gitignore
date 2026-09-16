@@ -1,0 +1,13 @@
+.env
+auth.json
+*.db
+*.db-shm
+*.db-wal
+logs/
+cache/
+sessions/
+backups/
+runtime/
+sandboxes/
+terminal-sessions/
+pastes/

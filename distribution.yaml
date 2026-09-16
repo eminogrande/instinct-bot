@@ -1,0 +1,6 @@
+name: instinct
+version: 0.1.0
+description: "Instinct money assistant — handles money end to end via paymentrequired.com/mcp with simulated instinct voice."
+hermes_requires: ">=0.21.0"
+author: "Emin Mahrt"
+license: "MIT"
